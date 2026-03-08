@@ -1,5 +1,5 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"My name is Shafa Sabir."<<endl;
+    cout<<"This is my written code."<<endl;
 }
